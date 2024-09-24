@@ -16,6 +16,7 @@
 3. Произведение чисел
 4. Среднее арифметическое чисел
 5. Разность максимального и минимального по модулю
+6. Добавить вывод разности квадратов чисел
 max(|число1|,|число2|) - min(|число1|,|число2|)
 > Программа представляет собой cpp файл, содержащий код программы для решения задания. Чтобы протестировать программу для решения задания №1 нужно открыть файл "1.cpp".
 
@@ -24,19 +25,20 @@ max(|число1|,|число2|) - min(|число1|,|число2|)
 ## Результаты тестирования
 Тест 1
 
-![image](https://github.com/user-attachments/assets/329cea51-d9c0-4d5a-9be9-daf737e6e68b)
+![image](https://github.com/user-attachments/assets/c0c9456a-e441-492f-a3b8-e3e6aa86a5f9)
 
 Тест 2
 
-![image](https://github.com/user-attachments/assets/417fbbd7-2654-4501-9271-4064a8218ae3)
+![image](https://github.com/user-attachments/assets/4d668176-0c16-4087-9132-0cbb870dd1b8)
 
 Тест 3
 
-![image](https://github.com/user-attachments/assets/90a7bd36-86a4-4438-bbeb-a4312c5716d4)
+![image](https://github.com/user-attachments/assets/fa83b441-9a49-4b58-88c5-55b2ddfaa68f)
 # Формулировка задания №2
 Написать на любом языке программу со следующим функционалом:
 1. Спросите у пользователя имя, возраст, номер школы и какой класс окончил.
-2. Оформите вывод таким образом:
+2. Добавить запрос буквы выпускного класса и добавить ее в вывод фразы
+3. Оформите вывод таким образом:
 
 Привет <ИМЯ>! Поздравляю с окончанием <КЛАСС> класса школы №<НОМЕР ШКОЛЫ> в <ТАКОМ_ТО_ГОДУ> году.
 
@@ -46,15 +48,15 @@ max(|число1|,|число2|) - min(|число1|,|число2|)
 ## Результаты тестирования
 Тест 1
 
-![image](https://github.com/user-attachments/assets/be042ac2-c1d4-4e45-93dd-acabe64c3761)
+![image](https://github.com/user-attachments/assets/aa71eae9-7bfd-42e1-be84-9d3bcf9bc284)
 
 Тест 2
 
-![image](https://github.com/user-attachments/assets/df56f378-5d48-42be-9f18-fc1e00ea7ff0)
+![image](https://github.com/user-attachments/assets/130d2d3e-edf6-4e10-87b3-df86ac2bf3a4)
 
 Тест 3
 
-![image](https://github.com/user-attachments/assets/4ed5360e-04e4-456a-a4e1-30c95e62f2ad)
+![image](https://github.com/user-attachments/assets/d161eae4-a856-45e6-b68c-ad2f9f563dc2)
 # Формулировка задания №3
 Написать на любом языке программу со следующим функционалом:
 Сравнение площадей кругов
@@ -62,6 +64,7 @@ max(|число1|,|число2|) - min(|число1|,|число2|)
 Определить и вывести:
 1. Номер круга с большей площадью
 2. Разность площадей круга
+3. Добавить вывод разности площадей квадратов, в которые могут быть вписаны круги с заданными радиусами с точностью до 2-х знаков.
 
 > Программа представляет собой cpp файл, содержащий код программы для решения задания. Чтобы протестировать программу для решения задания №3 нужно открыть файл "3.cpp".
 
@@ -69,12 +72,12 @@ max(|число1|,|число2|) - min(|число1|,|число2|)
 ## Результаты тестирования
 Тест 1
 
-![image](https://github.com/user-attachments/assets/1e0cd2c6-ef5e-4290-87a0-86044608f88c)
+![image](https://github.com/user-attachments/assets/6608ba7b-d696-44e4-b222-37f721445144)
 
 
 Тест 2
 
-![image](https://github.com/user-attachments/assets/260671be-0c74-4f34-8344-6de8cd1eb6e7)
+![image](https://github.com/user-attachments/assets/4d61c903-33df-4d44-affc-810d6c61218e)
 
 
 тест 3
